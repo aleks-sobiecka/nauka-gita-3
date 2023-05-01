@@ -1,0 +1,28 @@
+
+/*Global*/
+body {
+    background: #dfe6e9;
+}
+
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+/*Header*/
+.song-title {
+    font-size: 60px;
+    color: #2d3436;
+    margin-bottom: 15px;
+}
+
+.song-author {
+font-size: 40px;
+color: #636e72;
+margin-top: 15px;
+}
+
+section p:last-of-type {
+    font-size: 10px;
+    font-style: italic;
+}
